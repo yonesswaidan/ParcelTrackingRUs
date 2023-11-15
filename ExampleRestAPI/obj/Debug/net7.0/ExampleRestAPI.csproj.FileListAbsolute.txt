@@ -1,0 +1,93 @@
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\ExampleRestAPI.exe
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\ExampleRestAPI.deps.json
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\ExampleRestAPI.runtimeconfig.json
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\ExampleRestAPI.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\ExampleRestAPI.pdb
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.csproj.AssemblyReference.cache
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.AssemblyInfoInputs.cache
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.AssemblyInfo.cs
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.csproj.CoreCompileInputs.cache
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\staticwebassets\msbuild.ExampleRestAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ExampleRestAPI.props
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExampleRestAPI.props
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExampleRestAPI.props
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\scopedcss\bundle\ExampleRestAPI.styles.css
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.csproj.CopyComplete
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\refint\ExampleRestAPI.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.pdb
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.genruntimeconfig.cache
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\obj\Debug\net7.0\ref\ExampleRestAPI.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\DnsClient.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\Snappier.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\jakob\Desktop\Datamatiker\3. Semester\C#\ExampleRestAPI\ExampleRestAPI\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\ExampleRestAPI.exe
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\ExampleRestAPI.deps.json
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\ExampleRestAPI.runtimeconfig.json
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\ExampleRestAPI.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\ExampleRestAPI.pdb
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\Snappier.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.csproj.AssemblyReference.cache
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.AssemblyInfoInputs.cache
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.AssemblyInfo.cs
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.sourcelink.json
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\staticwebassets\msbuild.ExampleRestAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ExampleRestAPI.props
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExampleRestAPI.props
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExampleRestAPI.props
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\scopedcss\bundle\ExampleRestAPI.styles.css
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.csproj.CopyComplete
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\refint\ExampleRestAPI.dll
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.pdb
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\ExampleRestAPI.genruntimeconfig.cache
+C:\Users\Dennis\Source\Repos\ExampleRestAPI1\ExampleRestAPI\obj\Debug\net7.0\ref\ExampleRestAPI.dll
